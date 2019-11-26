@@ -20,7 +20,7 @@ Technologies used
 --
 Java 11.0.2       
 Junit 4
-Intellij
+Intellij IDE
 
 Test Cases
 --
