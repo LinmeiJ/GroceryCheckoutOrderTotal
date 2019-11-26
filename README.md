@@ -18,8 +18,8 @@ Scanning or entering an item with its quantity or weight, the program calculates
 
 Technologies used
 --
-IntelliJ IDE
-Java 11.0.2
+IntelliJ IDE, 
+Java 11.0.2, 
 Junit 4
 
 Test Cases
